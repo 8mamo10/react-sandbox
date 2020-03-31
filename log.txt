@@ -1,0 +1,13 @@
+```
+$ npm install -g react-native-cli
+$ react-native init MyFirstReactNative
+$ cd MyFirstReactNative
+$ npm start
+$ npm run ios
+$ npm run android
+```
+
+```
+cd "path/to/MyFirstReactNative" && npx react-native run-ios
+cd "path/to/MyFirstReactNative" && npx react-native run-android
+```
