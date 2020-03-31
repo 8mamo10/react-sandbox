@@ -8,6 +8,18 @@ $ npm run android
 ```
 
 ```
-cd "path/to/MyFirstReactNative" && npx react-native run-ios
-cd "path/to/MyFirstReactNative" && npx react-native run-android
+$ cd "path/to/MyFirstReactNative" && npx react-native run-ios
+$ cd "path/to/MyFirstReactNative" && npx react-native run-android
+```
+
+### moment
+```
+$ npm install moment --save
+```
+
+### map
+```
+$ npm install react-native-maps --save-exact
+$ cd /path/to/MyFirstReactNative/ios
+$ pod install
 ```
